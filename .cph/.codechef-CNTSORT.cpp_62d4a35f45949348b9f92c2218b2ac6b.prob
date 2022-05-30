@@ -1,0 +1,1 @@
+{"name":"Local: codechef-CNTSORT","url":"c:\\Users\\musahmed1\\Desktop\\training\\cp\\codechef-CNTSORT.cpp","tests":[{"id":1652257757034,"input":"2\n5\n7 2 9 10 1\n4\n3 7 7 3","output":"1 2 7 9 10\n3 3 7 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\musahmed1\\Desktop\\training\\cp\\codechef-CNTSORT.cpp","group":"local","local":true}

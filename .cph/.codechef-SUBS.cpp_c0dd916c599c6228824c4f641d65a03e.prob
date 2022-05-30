@@ -1,0 +1,1 @@
+{"name":"Local: codechef-SUBS","url":"c:\\Users\\musahmed1\\Desktop\\training\\cp\\codechef-SUBS.cpp","tests":[{"id":1652253449420,"input":"3\n4 3\n1 2 4 7\n4 2\n2 4 1 7\n5 4\n1 5 44 20 40","output":"3\n1\n39"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\musahmed1\\Desktop\\training\\cp\\codechef-SUBS.cpp","group":"local","local":true}

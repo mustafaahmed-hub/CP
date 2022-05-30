@@ -1,0 +1,1 @@
+{"name":"Local: codechef-EQDIFFER","url":"c:\\Users\\musahmed1\\Desktop\\training\\cp\\codechef-EQDIFFER.cpp","tests":[{"id":1652716644335,"input":"3\n2\n1 2\n5\n2 5 1 2 2\n4\n1 2 1 2\n","output":"0\n2\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\musahmed1\\Desktop\\training\\cp\\codechef-EQDIFFER.cpp","group":"local","local":true}
